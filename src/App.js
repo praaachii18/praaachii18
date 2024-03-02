@@ -1,4 +1,3 @@
-import "./app.css";
 import Body from "./components/Body.jsx";
 function App() {
   return (
