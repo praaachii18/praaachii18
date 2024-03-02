@@ -1,0 +1,28 @@
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: orange;
+}
+
+.contact-container>div {
+    display: flex;
+    align-items: center;
+}
+
+.contact-container>div svg {
+    margin-right: 10px;
+}
+
+.contact-container>div .insta-link {
+    text-decoration: none;
+}
+
+.contact-container>div .insta-link:hover {
+    color: #007bff;
+
+}

@@ -1,0 +1,32 @@
+.timeline {
+    list-style: none;
+}
+
+.timeline h1 {
+    font-size: var(--headings-size);
+}
+
+.timeline-item {
+    font-size: var(--content-size);
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 10px;
+    background-color: #BF7D01;
+    border-radius: 50%;
+
+}
+
+.timeline-item p {
+    font-size: 4vh;
+    margin-top: 10px;
+}

@@ -1,0 +1,7 @@
+.accordian-header {
+    font-weight: bold;
+    cursor: pointer;
+}
+.accordian-item {
+    margin: 20px;
+}
