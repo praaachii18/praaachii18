@@ -9,7 +9,7 @@ import {
 const carddata = [
   {
     id: 1,
-    title: "serviced bikes",
+    title: "Serviced Bikes",
     icon: faMotorcycle,
   },
   {
@@ -19,7 +19,7 @@ const carddata = [
   },
   {
     id: 3,
-    title: "unlimited kilometers",
+    title: "Unlimited Kilometers",
     icon: faRoad,
   },
   {
