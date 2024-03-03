@@ -1,7 +1,7 @@
 import Body from "./components/Body.jsx";
 function App() {
   return (
-    <div className="App app">
+    <div className="App">
       <Body />
     </div>
   );
