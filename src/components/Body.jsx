@@ -9,12 +9,12 @@ import Contact from "./Contact/Contact";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import About from "./About/About";
 
 function Body() {
   return (
     <React.Fragment>
-      <Container fluid className="sub-container "></Container>
-
+      <Container fluid id="home" className="sub-container "></Container>
       <div className="container ">
         <Container className="welcome-container">
           <Row className="d-flex align-items-center justify-content-center">
@@ -30,45 +30,14 @@ function Body() {
                 Pinkcity
               </p>
             </Col>
-            <Col col-lg-12="true" col-md-6="true" col-sm-2="true">
-              <Cards />
-            </Col>
           </Row>
-        </Container>
-        <Container className="timeline-container my-5">
-          <Row>
-            <Col>
-              <Timeline />
-            </Col>
-          </Row>
-        </Container>
-        <Container className="prices-container my-5">
-          <Row>
-            <Col>
-              <Prices />
-            </Col>
-          </Row>
-        </Container>
-        <Container className="accordians-container my-5">
-          <Row>
-            <Col>
-              <Accordians />
-            </Col>
-          </Row>
-        </Container>
-        <Container className="location-container my-5">
-          <Row>
-            <Col>
-              <Location />
-            </Col>
-          </Row>
-        </Container>
-        <Container className="contact-container my-5">
-          <Row className="d-flex align-items-center justify-content-center">
-            <Col>
-              <Contact />
-            </Col>
-          </Row>
+          <Cards />
+          <Timeline />
+          <Prices />
+          <Accordians />
+          <Location />
+          <Contact />
+          <About />
         </Container>
       </div>
     </React.Fragment>

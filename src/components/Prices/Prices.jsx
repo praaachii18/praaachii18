@@ -5,7 +5,7 @@ import Col from "react-bootstrap/Col";
 
 function Prices() {
   return (
-    <div className="price-container">
+    <div id="pricing" className="price-container">
       <h2 className="text-center mb-4">PORTFOLIO</h2>
       <Row className="row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1 g-4 ">
         <Col>

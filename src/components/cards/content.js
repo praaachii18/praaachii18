@@ -4,7 +4,7 @@ import {
   faMotorcycle,
   faCircleCheck,
   faHandHoldingDollar,
-  faPercent,
+  faBinoculars,
 } from "@fortawesome/free-solid-svg-icons";
 const carddata = [
   {
@@ -34,8 +34,8 @@ const carddata = [
   },
   {
     id: 6,
-    title: "Excellent Discounts",
-    icon: faPercent,
+    title: "Insider Travel Guidance",
+    icon: faBinoculars,
   },
 ];
 

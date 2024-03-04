@@ -6,7 +6,7 @@ import Col from "react-bootstrap/Col";
 
 function Location() {
   return (
-    <Container fluid className="location-container">
+    <Container fluid id="location" className="location-container">
       <Row>
         <Col sm="6">
           <div className="location-text">
