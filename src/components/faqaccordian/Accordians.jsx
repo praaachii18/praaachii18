@@ -7,7 +7,7 @@ function Accordians() {
   return (
     <>
       <div className="accordian-heading">
-        <h1>Have Questions? We got you.</h1>
+        <h2>Have Questions? We got you.</h2>
         <p>Contact us on +91-{number} Call in case of any other query.</p>
       </div>
       <div className="accordian-container my-3">

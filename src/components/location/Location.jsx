@@ -10,12 +10,12 @@ function Location() {
       <Row>
         <Col sm="6">
           <div className="location-text">
-            <h1>Address:</h1>
+            <h2>Address:</h2>
             <p>
               D-10, Kabir Marg, opposite Bani Park Hospital, Sen Colony, Bani
               Park, Jaipur, Rajasthan 302016
             </p>
-            <h1>Landmark:</h1>
+            <h2>Landmark:</h2>
             <p>Rama Ayurveda Store</p>
           </div>
         </Col>
