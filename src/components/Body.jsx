@@ -26,8 +26,11 @@ function Body() {
                 Welcome to Rent & Ride, your one-stop destination for all your
                 bike rental needs in Jaipur. Located just 100m away from Jaipur
                 Railway station and 800m away from Jaipur bus stand, we are
-                conveniently situated to serve your commute needs in the
-                Pinkcity
+                conveniently situated to serve your bike commute needs in the
+                Pinkcity. Whether you need a bike for sightseeing, exploring, or
+                simply getting around town, Rent & Ride has you covered. Rent a
+                bike from us today and experience the freedom of two wheels in
+                Jaipur!
               </p>
             </Col>
           </Row>
