@@ -19,8 +19,8 @@
   margin-top: 10vh;
 }
 
-.container h2 {
-  font-family: "Abril Fatface", serif;
+.container h1,
+h2 {
   font-weight: 900;
   font-style: normal;
 }

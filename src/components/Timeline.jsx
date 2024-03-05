@@ -16,7 +16,7 @@ function RentalGuide() {
   return (
     <Container className="py-5">
       <h2 className="text-center mb-4">
-        Book your dream ride in just few simple steps
+        Book Your Dream Ride In Just Few Simple Steps
       </h2>
       <Row className="text-center">
         <Col xs={12} sm={6} lg={4}>

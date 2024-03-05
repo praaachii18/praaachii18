@@ -19,7 +19,7 @@ function Body() {
         <Container className="welcome-container">
           <Row className="d-flex align-items-center justify-content-center">
             <Col sm={6}>
-              <h2 className="title">Bikes on Rent in Jaipur</h2>
+              <h1 className="title">Bikes on Rent in Jaipur</h1>
             </Col>
             <Col sm={6}>
               <p className="welcome">
