@@ -29,7 +29,7 @@ const carddata = [
   },
   {
     id: 5,
-    title: "Best Price Gaurantee",
+    title: "Best Price Garuntee",
     icon: faHandHoldingDollar,
   },
   {
